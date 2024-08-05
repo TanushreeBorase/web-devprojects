@@ -1,0 +1,19 @@
+This HTML document outlines a basic Amazon-like website:
+
+1. Header:
+   - Logo: Branding element.
+   - Address Selector: Allows address selection.
+   - Search Bar: For searching products.
+   - Sign-In: Access to user accounts.
+   - Returns & Cart: Information about returns and shopping cart.
+
+2. Hero Section: Promotional message about deals and delivery offers.
+
+3. Shop Section: Displays product categories as clickable boxes with images.
+
+4. Footer:
+   - Back to Top: Navigation to the top of the page.
+   - Footer Panels: Links for company information, social media, selling, and support.
+   - Logos: Amazon-related icons.
+   - Legal Links: Conditions of use and copyright notice.
+
